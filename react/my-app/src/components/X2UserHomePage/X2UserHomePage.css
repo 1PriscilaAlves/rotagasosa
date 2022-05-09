@@ -1,0 +1,11 @@
+.x2-user-home-page {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  display: flex;
+  flex-direction: column;
+  height: 720px;
+  overflow: hidden;
+  padding: 1px 0;
+  width: 1280px;
+}
+

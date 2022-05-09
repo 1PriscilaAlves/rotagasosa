@@ -1,0 +1,12 @@
+.user-home-page-1 {
+  align-items: center;
+  background-color: var(--mercury);
+  display: flex;
+  flex-direction: column;
+  height: 720px;
+  overflow: hidden;
+  padding: 1px 0;
+  position: relative;
+  width: 1280px;
+}
+
